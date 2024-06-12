@@ -1,0 +1,47 @@
+"10-06-2024 [main] INFO  com.demo.DemoCloudApplicationTests - Starting DemoCloudApplicationTests using Java 17.0.9 with PID 17460 (started by robil in C:\Users\robil\Desktop\Progetti\Eclipse_Workspaces\SpringMicroServiceProject\DemoCloud)
+""10-06-2024 [main] INFO  com.demo.DemoCloudApplicationTests - No active profile set, falling back to 1 default profile: "default"
+""10-06-2024 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+""10-06-2024 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 38 ms. Found 1 JPA repository interface.
+""10-06-2024 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+""10-06-2024 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@349f0ca4
+""10-06-2024 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+""10-06-2024 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+""10-06-2024 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+""10-06-2024 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+""10-06-2024 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+""10-06-2024 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.5 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 8.0.0. Check the community dialects project for available legacy versions.
+""10-06-2024 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+""10-06-2024 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+""10-06-2024 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""10-06-2024 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+""10-06-2024 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+""10-06-2024 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoints beneath base path '/actuator'
+""10-06-2024 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 30 ms
+""10-06-2024 [main] INFO  com.demo.DemoCloudApplicationTests - Started DemoCloudApplicationTests in 3.917 seconds (process running for 4.712)
+""10-06-2024 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+""10-06-2024 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+""10-06-2024 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+""10-06-2024 [main] INFO  com.demo.DemoCloudApplicationTests - Starting DemoCloudApplicationTests using Java 17.0.9 with PID 1320 (started by robil in C:\Users\robil\Desktop\Progetti\Eclipse_Workspaces\SpringMicroServiceProject\DemoCloud)
+""10-06-2024 [main] INFO  com.demo.DemoCloudApplicationTests - No active profile set, falling back to 1 default profile: "default"
+""10-06-2024 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+""10-06-2024 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 37 ms. Found 1 JPA repository interface.
+""10-06-2024 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+""10-06-2024 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2326180c
+""10-06-2024 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+""10-06-2024 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+""10-06-2024 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+""10-06-2024 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+""10-06-2024 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+""10-06-2024 [main] WARN  org.hibernate.dialect.Dialect - HHH000511: The 5.5.5 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 8.0.0. Check the community dialects project for available legacy versions.
+""10-06-2024 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+""10-06-2024 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+""10-06-2024 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""10-06-2024 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+""10-06-2024 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+""10-06-2024 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoints beneath base path '/actuator'
+""10-06-2024 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 26 ms
+""10-06-2024 [main] INFO  com.demo.DemoCloudApplicationTests - Started DemoCloudApplicationTests in 3.361 seconds (process running for 4.044)
+""10-06-2024 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+""10-06-2024 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+""10-06-2024 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+"
